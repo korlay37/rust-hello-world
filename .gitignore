@@ -1,0 +1,27 @@
+# Compiled output
+/target/
+
+# Rust/Cargo specific files
+**/*.rs.bk
+/.cargo/
+/Cargo.lock
+
+# Build scripts and temporary files
+/target/
+*.log
+*.lock
+*.tmp
+*.rs.bk
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+# Debugging artifacts
+*.dSYM/
+*.stackdump
+*.profdata
+*.profraw
